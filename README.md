@@ -14,8 +14,8 @@ The app allows users to input values for various wine characteristics (like acid
 
 ## App Preview
 
-![App](my_streamlit_app/screenshots/Screenshot%202024-09-18%20194503.png)
-![App](my_streamlit_app/screenshots/Screenshot%202024-09-18%20194532.png)
+![App](Screenshot%202024-09-18%20194503.png)
+![App](Screenshot%202024-09-18%20194532.png)
 
 ## Data Description
 
